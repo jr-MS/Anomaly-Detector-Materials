@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+---
+
 <div align="center">
   👉Get your hands on Anomaly Detector on Day one, not one day!👈
 </div>
